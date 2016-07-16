@@ -4,6 +4,7 @@ http://queen-domain.net/*
 https://cdn15.acloudimages.com/*
 http://scr.kliksaya.com/*
 http://idnp.co/*
-*liveadexchanger.com*
+liveadexchanger.com*
 http://uno4d.com/*
-*360pcsecurity.info/*
+360pcsecurity.info/*
+gistonerk.17chromeupd.ru/*
