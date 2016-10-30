@@ -10,3 +10,4 @@ http://uno4d.com/*
 gistonerk.17chromeupd.ru/*
 *uzone.id/*
 http://*.lk21.tv/assets/*
+lk21.tv###ads-pop
