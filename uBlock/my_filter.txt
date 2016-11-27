@@ -11,3 +11,6 @@ gistonerk.17chromeupd.ru/*
 *uzone.id/*
 http://*.lk21.tv/assets/*
 lk21.tv###ads-pop
+*ads4game.com/*
+*cashtrafic.info/*
+
